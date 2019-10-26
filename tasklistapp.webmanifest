@@ -1,0 +1,15 @@
+{
+  "background_color": "green",
+  "description": "create your own tasklist",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "tasklist_icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Amazing Tasklists",
+  "short_name": "Tasklists",
+  "start_url": "/index.html"
+}
